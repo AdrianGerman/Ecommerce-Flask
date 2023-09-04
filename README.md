@@ -1,22 +1,23 @@
-E-commerce con Python y Flask
-Este es un proyecto de comercio electrónico desarrollado con Python y Flask, diseñado para ofrecer una solución flexible y escalable para la creación y gestión de tiendas en línea. Nuestra plataforma proporciona una base sólida para construir tu tienda virtual, con características que te permiten personalizar y expandir fácilmente tu negocio en línea.
+# E-commerce con Python y Flask
 
-Características principales
-Gestión de productos: Agrega, actualiza y elimina productos de tu catálogo de manera sencilla. Cada producto puede incluir imágenes, descripciones detalladas, precios y más.
+Este es un proyecto de comercio electrónico desarrollado con Python y Flask, diseñado para ofrecer una solución flexible y escalable para la creación y gestión de tiendas en línea.
 
-Carrito de compras: Los clientes pueden agregar productos a su carrito de compras y realizar un pago seguro cuando estén listos para comprar.
+## Características principales
 
-Autenticación y cuentas de usuario: Los usuarios pueden registrarse, iniciar sesión y gestionar sus perfiles. Se incluye una funcionalidad de inicio de sesión seguro.
+- **Gestión de productos**: Agrega, actualiza y elimina productos de tu catálogo de manera sencilla. Cada producto puede incluir imágenes, descripciones detalladas, precios y más.
 
-Procesamiento de pagos: Integración con métodos de pago populares para procesar transacciones seguras.
+- **Carrito de compras**: Los clientes pueden agregar productos a su carrito de compras y realizar un pago seguro cuando estén listos para comprar.
 
-Gestión de pedidos: Los administradores pueden ver y gestionar los pedidos pendientes y completados, lo que facilita la administración de la logística y la satisfacción del cliente.
+- **Autenticación y cuentas de usuario**: Los usuarios pueden registrarse, iniciar sesión y gestionar sus perfiles. Se incluye una funcionalidad de inicio de sesión seguro.
 
-Panel de administración intuitivo: Un panel de control fácil de usar para gestionar productos, usuarios y pedidos de manera eficiente.
+- **Procesamiento de pagos**: Integración con métodos de pago populares para procesar transacciones seguras.
 
-Requisitos de instalación
-Python 3.x
+- **Gestión de pedidos**: Los administradores pueden ver y gestionar los pedidos pendientes y completados, lo que facilita la administración de la logística y la satisfacción del cliente.
 
-Uso
-Inicia la aplicación Flask:
-flask run
+- **Panel de administración intuitivo**: Un panel de control fácil de usar para gestionar productos, usuarios y pedidos de manera eficiente.
+
+## Requisitos de instalación
+
+- Python 3.x
+- Flask
+
